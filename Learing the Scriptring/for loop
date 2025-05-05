@@ -38,3 +38,9 @@ do echo "i= $i"; done
 
 
 echo "---------------------"
+
+# create 100 files 
+# for i in {1..100}
+# do
+#   touch "file_$i.txt"
+# done
