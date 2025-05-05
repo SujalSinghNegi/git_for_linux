@@ -1,0 +1,4 @@
+Hello this is Sujal using the vim editor.
+line 2 
+line 3 -- doing fine till now ig
+
